@@ -1,0 +1,32 @@
+@media(min-width:1200px){body{background: #000000;}}
+
+.bag{
+    color: #fff;
+   }
+
+
+   .images{
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .header_title{
+    font-size: 1.6em;
+    padding-bottom: .5em;
+    font-size: 1.4em;
+    color: #fff;
+    margin-bottom: 12px;
+    display: table-cell;
+    display: block;
+    margin: 0.7em 0;
+    margin: 0;
+    border-bottom: 1px solid #fff;
+    margin-left: 150px;
+    margin-bottom: 30px;
+  }
+
+  .bag{
+    color: #fff;
+   }
+  

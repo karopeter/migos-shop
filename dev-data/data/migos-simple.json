@@ -1,0 +1,187 @@
+[
+ {
+ "id":0,
+ "name":"GNF COVER ART T-SHIRT",
+ "price":"35.00",
+ "imageCover":"migos1.png"
+ },
+ {
+  "id":1,
+  "name":"MIDDLE FINGER HODDIE",
+  "price":"65.00",
+  "imageCover":"migos2.png"
+ },
+ {
+ "id":2,
+ "name":"CULTURE II HODDIE",
+ "price":"60.00",
+ "imageCover":"migos3.jpg"
+ },
+ {
+ "id":3,
+ "name":"CULTURE II LONG SLEEVE",
+ "price":"40.00",
+ "imageCover":"migos4.jpg"
+ },
+ {
+  "id":4,
+  "name":"CULTURE II T-SHIRT",
+  "price":"30.00",
+  "imageCover":"migos5.png"
+ },
+ {
+  "id":5,
+  "name":"DOVES T-SHIRT",
+  "price":"30.00",
+  "imageCover":"migos6.jpg"
+  },
+  {
+  "id":6,
+  "name":"THE LAST ROCKET LONG SLEEVE",
+  "price":"40.00",
+  "imageCover":"migos7.png"
+  },
+  {
+  "id":7,
+  "name":"HUNCHO BLACK HOODIE",
+  "price":"9.00",
+  "imageCover":"migos8.png"
+  },
+  {
+  "id":8,
+  "name":"COUNTDOWN HOODED SWEATSHIRT",
+  "price":"80.00",
+  "imageCover":"migos9.png"
+  },
+  {
+  "id":9,
+  "name":"CULTURE II - 3 LP VINYL",
+  "price":"29.99",
+  "imageCover":"migos10.png"
+  },
+  {
+  "id":10,
+  "name":"KANJI HOODIE",
+  "price":"60.00",
+  "imageCover":"migos11.png"
+  },
+  {
+  "id":11,
+  "name":"THE LAST ROCKET LP",
+  "price":"23.00",
+  "imageCover":"migos12.png"
+  },
+  {
+  "id":12,
+  "name":"TOUR EXCLUSIVE",
+  "price":"30.00",
+  "imageCover":"migos13.png"
+  },
+ {
+ "id":13,
+ "name":"DRIP TEE",
+ "price":"30.00",
+ "imageCover":"migos14.png"
+ },
+ {
+ "id":14,
+ "name":"MOTORSPORT T-SHIRT",
+ "price":"30.00",
+ "imageCover":"migos15.png"
+ },
+ {
+ "id":15,
+ "name":"QUAVO HUNCH CD",
+ "price":"13.99",
+ "imageCover":"migos16.png"
+ },
+ {
+ "id":16,
+ "name":"THE LAST ROCKET CD",
+ "price":"12.00",
+ "imageCover":"migos17.png"
+ },
+ {
+  "id":17,
+  "name":"TOUR EXCLUSIVE HODDIE",
+  "price":"60.00",
+  "imageCover":"migos18.png"
+ },
+ {
+  "id":18,
+  "name":"BOMBER JACKET",
+  "price":"220.00",
+  "imageCover":"migos19.png"
+  },
+  {
+  "id":19,
+  "name":"QUAVO HUNCHO LP",
+  "price":"24.99",
+  "imageCover":"migos20.png"
+ },
+ {
+ "id":20,
+ "name":"MIGOS TOUR CUSTOME",
+ "price":"125.00",
+ "imageCover":"migos21.png"
+ },
+ {
+"id":21,
+"name":"QUAVO HUNCHO DIGITAL",
+"price":"12.99",
+"imageCover":"migos22.png"
+},
+{
+"id":22,
+"name":"MOTORSPORT LOGO HAT",
+"price":"30.00",
+"imageCover":"migos23.png"
+},
+{
+ "id":23,
+ "name":"THE LAST ROCKET DIGITAL",
+ "price":"10.00",
+ "imageCover":"migos24.png"
+ },
+ {
+ "id":24,
+ "name":"MOTORSPORT LOGO HAT",
+ "price":"30.00",
+ "imageCover":"migos25.png"
+ },
+ {
+ "id":25,
+ "name":"CRACKING MIGOS FAMILY",
+ "price":"55.00"
+ },
+ {
+ "id":26,
+ "name":"GIVE NO FXK HODDIE",
+ "price":"90.00"
+ },
+ {
+"id":27,
+"name":"GIVE NO FXK SLEEVES",
+"price":"30.00"
+},
+{
+"id":28,
+"name":"GIVE NO FXK SLEEVES",
+"price":"30.00"
+},
+{
+"id":29,
+"name":"GIVE NO FXK CAPPING",
+"price":"50.00"
+},
+{
+"id":30,
+"name":"GIVE NO FXK CAPPING SLEEVES",
+"price":"50.00"
+},
+{
+"id":31,
+"name":"BLACK SHADES NO STARS",
+"price":"10.00"
+}
+]

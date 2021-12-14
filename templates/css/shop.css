@@ -1,0 +1,11 @@
+@media(min-width:1200px){body{background: #000000;}}
+
+.images{
+  width: 80%;
+  height: 100%;
+  border: 1px;
+}
+
+.bag{
+ color: #fff;
+}

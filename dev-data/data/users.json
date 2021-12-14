@@ -1,0 +1,29 @@
+[
+ {
+    "id": "5c8a1d5b0190b214360dc057",
+    "name": "Migos Entertainment",
+    "email": "admin@migos.io",
+    "role": "admin",
+    "cart": "Migos",
+    "active": "true",
+    "password": "$2a$12$Q0grHjH9PXc6SxivC8m12.2mZJ9BbKcgFpwSG4Y1ZEII8HJVzWeyS"
+ },
+ {
+    "id": "5c8a1dfa2f8fb814b56fa181",
+    "name": "Chris Perry",
+    "email": "chris@perry.io",
+    "role": "customer",
+    "cart": "Quavo",
+    "active": "true",
+    "password": "$2a$12$hP1h2pnNp7wgyZNRwPsOTeZuNzWBv7vHmsR3DT/OaPSUBQT.y0S.."
+ },
+ {
+    "id": "5c8a1e1a2f8fb814b56fa182",
+    "name": "Travis Scott",
+    "email": "trav@scot.io",
+    "role": "user",
+    "cart": "Migos",
+    "active": "true",
+    "password": "$2a$12$9nFqToiTmjgfFVJiQvjmreLt4k8X4gGYCETGapSZOb2hHa55t0dDq"
+ }
+]
